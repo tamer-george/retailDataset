@@ -1,4 +1,4 @@
-# EDA Project on a Retail Dataset
+
 [EXPLORE DASHBOARD](https://saledashboard.streamlit.app/)
 ## Data Overview:
 
